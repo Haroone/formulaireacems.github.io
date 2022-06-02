@@ -63,7 +63,7 @@ if (isset($_POST['S'])) {
     //Close Connection
     mysqli_close($conn);
     if ($result) {
-        header("Location: getWay.php");
+        header("Location: https://github.com/Haroone/formulaireacems.github.io/blob/main/getWay.php");
     }
 }
 ?>
